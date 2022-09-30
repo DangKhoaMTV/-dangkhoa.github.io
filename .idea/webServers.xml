@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e2c8ad06-a7b5-4d79-a1be-89f1548067f2" name="laravel.dangkhoa.3tc.vn" url="http://dangkhoa.3tc.vn">
+        <fileTransfer rootFolder="/laravel" host="dangkhoa.3tc.vn" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

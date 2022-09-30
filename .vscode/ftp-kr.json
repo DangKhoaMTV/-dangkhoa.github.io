@@ -1,0 +1,16 @@
+{
+    "host": "dangkhoa.3tc.vn",
+    "username": "ftpacc@dangkhoa.3tc.vn",
+    "password": "htbQ01u7",
+    "remotePath": "/laravel/",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8", 
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
